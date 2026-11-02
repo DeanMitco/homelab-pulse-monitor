@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="preparation.md" />
+  </Folder>
+  <Project Path="homelab-pulse-monitor/homelab-pulse-monitor.csproj" />
+</Solution>
